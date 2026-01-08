@@ -60,8 +60,8 @@ The combination of segmentation and LTV analysis provides a **data-driven framew
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/house-prediction-price.git
-   cd house-prediction-price
+   git clone https://github.com/Prashant44-cell/Customer-Segmentation-Lifetime-Value-Analysis.git
+   
    ```
 
 2. Install dependencies:
