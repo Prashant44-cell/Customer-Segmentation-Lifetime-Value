@@ -1,4 +1,4 @@
-# 👥 Customer Segmentation and Lifetime Value Analysis using Clustering Algorithms
+# 👥 Customer Segmentation and Lifetime Value Analysis using Clustering (Algorithms)
 
 ## 📌 Project Overview
 This project demonstrates how businesses can leverage **customer segmentation** and **lifetime value (LTV) analysis** to better understand their customer base and optimize marketing strategies. By applying **clustering algorithms**, customers are grouped into distinct segments based on behavioral and transactional attributes. These segments reveal patterns in purchasing behavior, engagement, and profitability.
